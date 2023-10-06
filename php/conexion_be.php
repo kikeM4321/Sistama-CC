@@ -1,7 +1,7 @@
 <?php
-    $conexion = mysqli_connect("localhost", "root","", "bd_af");
+    $conexion = mysqli_connect("localhost", "root","", "bd_cc");
 
-    /*/
+    /*
     if($conexion){
         echo'conectado a la base de datos exito';
         
@@ -9,5 +9,4 @@
         echo 'no se pudo hacer la conexion';
     }
     */
-
 ?>
